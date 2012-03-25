@@ -1,0 +1,267 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"T",
+				"TABLE"
+			],
+			[
+				"c",
+				"CREATE"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"font",
+				"font	font-family: family"
+			],
+			[
+				"f",
+				"font	font-size: size"
+			],
+			[
+				"gete",
+				"getElementById"
+			],
+			[
+				"in",
+				"innerText"
+			],
+			[
+				"prot",
+				"prototype"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"chil",
+				"children"
+			],
+			[
+				"tr",
+				"transport"
+			],
+			[
+				"pro",
+				"projects"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"xml",
+				"xmlDoc"
+			],
+			[
+				"proj",
+				"projectName"
+			],
+			[
+				"decode",
+				"decodeBytes"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "",
+			"file": "/Users/wenbi/Workspace/CL/include/WB/Localization",
+			"file_size": -1,
+			"file_write_time": -1,
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/wenbi/Workspace/CL/include/WB/Localization",
+		"/Users/wenbi/Workspace/CL/include/CL/Localization",
+		"/Users/wenbi/Workspace/CL/include/wb.config",
+		"/Users/WenBi/Workspace/libsoko/include/WB/AutoLocker",
+		"/Users/WenBi/Workspace/libsoko/include/WB/Charset",
+		"/Users/WenBi/Workspace/libsoko/include/wb.config",
+		"/Users/WenBi/Documents/workspace/J2EE/PersonIntroduction/resources/NewsMapper.xml",
+		"/Users/WenBi/Documents/workspace/J2EE/PersonIntroduction/resources/SqlMap.properties",
+		"/Users/WenBi/Documents/workspace/J2EE/PersonIntroduction/resources/SqlMapConfig.xml",
+		"/Users/WenBi/Documents/workspace/J2EE/PersonIntroduction/src/com/chiplife/pi/data/SqlMapConfig.xml",
+		"/Users/wenbi/Documents/Workspace/J2EE/PersonIntroduction/src/com/chiplife/pi/data/NewsMapper.xml",
+		"/Users/wenbi/Documents/Workspace/J2EE/PersonIntroduction/src/com/chiplife/pi/data/SqlMap.properties",
+		"/Users/WenBi/Workspace/libsoko/include/WB/Graphics/Image",
+		"/Users/wenbi/Desktop/untitled.xml",
+		"/Users/wenbi/Desktop/untitled.h",
+		"/personal-introduction",
+		"/Users/wenbi/Sites/DailyBuild/projects.xml",
+		"/Users/wenbi/Sites/DailyBuild/load_project_list.php",
+		"/Users/wenbi/Sites/DailyBuild/xml.js",
+		"/Users/wenbi/Sites/DailyBuild/logic.php",
+		"/Users/wenbi/Library/Application Support/Sublime Text 2/Packages/User/Global.sublime-settings",
+		"/Users/wenbi/Sites/DailyBuild/src/index.php",
+		"/Users/wenbi/Sites/DailyBuild/src/load_project_list.php",
+		"/Users/wenbi/Sites/DailyBuild/index.php",
+		"/Users/wenbi/Sites/DailyBuild/wax.js",
+		"/Users/wenbi/Sites/DailyBuild/DailyBuild.sublime-project",
+		"/Users/wenbi/Workspace/layout.xml",
+		"/Users/wenbi/Workspace/Alipay/Common/UI/Widgets/APButton.m",
+		"/Users/wenbi/Workspace/iPadFramework/Utils/TBXML/TBXML.m",
+		"/Users/wenbi/Library/Application Support/Sublime Text 2/Packages/Default/Global.sublime-settings"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"inputsourcei",
+			"source.c",
+			"getBusyOverlay"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/wenbi/Workspace/CL/include/WB/Localization",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 218.0,
+	"status_bar_visible": true
+}
